@@ -561,6 +561,7 @@ dhall-bash
 dhall-json
 dhall-lsp-server
 dhall-yaml
+di
 dialog
 diamond
 dicebear
@@ -1245,6 +1246,7 @@ krakend
 krew
 ktfmt
 kube-linter
+kube-ps1
 kubeaudit
 kubebuilder
 kubecfg
@@ -1666,6 +1668,7 @@ nifi-registry
 nim
 ninja
 nixpacks
+nmail
 nmap
 nng
 node
